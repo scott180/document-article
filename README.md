@@ -1,6 +1,6 @@
 # 文档库
 
-> 个人文档图片资料仓库，保存公开数据，如书法、原神、个人随笔等等相关文档及图片。
+> 个人文档图片资料仓库，保存公开数据，如吉他、书法、原神、个人随笔等等相关文档及图片。
 
 
 仓库：<br>
@@ -23,12 +23,8 @@
 
 > 我的网站：生活随笔-编程笔记-书法练习轨迹
 
-| 徐书法 | 地址        |  备注          |
-| -----  | ----------- |  ------------- |
-| 1      | [xushufa.cn]( https://xushufa.cn )            | 书法练习轨迹网站。                   |
-| 2      | [blog.xushufa.cn]( https://blog.xushufa.cn )  | `vuepress`构建的博客网站。           |
-| 3      | [web.xushufa.cn]( https://web.xushufa.cn )    | `vuepress-theme-reco`构建的博客网站。|
 
+[xushufa]( https://vuepress-blog.xushufa.cn ) &ensp; [blog]( https://reco-blog.xushufa.cn )
 
 ***
 
